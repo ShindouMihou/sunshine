@@ -21,7 +21,7 @@ even more till the end of the days.
 - [License](https://github.com/ShindouMihou/sunshine/blob/main/LICENSE)
 - [Diary](https://github.com/ShindouMihou/sunshine/tree/main/diary)
 - [Photos](https://github.com/ShindouMihou/sunshine/tree/main/photos)
-- [Read this at the very last](https://github.com/ShindouMihou/sunshine/blob/main/answer.md)
+- [Read this at the very last](https://github.com/ShindouMihou/sunshine/blob/main/ANSWER.md)
 
 <!--- PLEASE DELETE THIS SCOPE WHEN FORKING --->
 ### Scope of Responsibility
