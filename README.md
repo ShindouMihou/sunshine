@@ -18,4 +18,14 @@ even more till the end of the days.
 <!--- END OF LETTER --->
 
 ### Table of Contents
-- TODO
+- [License](https://github.com/ShindouMihou/sunshine/blob/main/LICENSE)
+- [Diary](https://github.com/ShindouMihou/sunshine/tree/main/diary)
+- [Photos](https://github.com/ShindouMihou/sunshine/tree/main/photos)
+
+<!--- PLEASE DELETE THIS SCOPE WHEN FORKING --->
+### Scope of Responsibility
+
+This repository nor the contributors and creators are not responsible for your heartbreak and failure in confessing. You may 
+fork, modify and send this to your special someone at your own discretion and risk.
+
+<!--- END OF DELETE THIS SCOPE --->
